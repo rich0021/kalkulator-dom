@@ -1,2 +1,2 @@
-# kalkulator-dom
+# kalkulator dom
 Latihan JS Dasar Pesilat
